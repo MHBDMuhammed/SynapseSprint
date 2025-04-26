@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "By the time the police arrived, the thieves _____ (disappear).",
+    "options": [
+      "disappeared",
+      "were disappearing",
+      "had disappeared",
+      "have disappeared"
+    ],
+    "correctAnswer": "had disappeared"
+  },
+  {
+    "id": 2,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Which word means 'to make something worse'?",
+    "options": [
+      "improve",
+      "alleviate",
+      "exacerbate",
+      "facilitate"
+    ],
+    "correctAnswer": "exacerbate"
+  },
+  {
+    "id": 3,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "If I _____ (know) you were coming, I _____ (bake) a cake.",
+    "options": [
+      "knew / would bake",
+      "had known / would have baked",
+      "knew / baked",
+      "had known / would bake"
+    ],
+    "correctAnswer": "had known / would have baked"
+  },
+  {
+    "id": 4,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Someone who is 'articulate' can ____ well.",
+    "options": [
+      "listen",
+      "write",
+      "speak",
+      "read"
+    ],
+    "correctAnswer": "speak"
+  },
+  {
+    "id": 5,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "This time next week, we _____ (lie) on a beach in Spain.",
+    "options": [
+      "will lie",
+      "will be lying",
+      "lie",
+      "are lying"
+    ],
+    "correctAnswer": "will be lying"
+  },
+  {
+    "id": 6,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "To 'put up with' something means to ____ it.",
+    "options": [
+      "enjoy",
+      "tolerate",
+      "avoid",
+      "criticize"
+    ],
+    "correctAnswer": "tolerate"
+  },
+  {
+    "id": 7,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "The report _____ (must / finish) by Friday.",
+    "options": [
+      "must finish",
+      "must be finished",
+      "must finished",
+      "must finishing"
+    ],
+    "correctAnswer": "must be finished"
+  },
+  {
+    "id": 8,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "A 'dilemma' is a situation where you have to make a difficult _____",
+    "options": [
+      "journey",
+      "choice",
+      "statement",
+      "friend"
+    ],
+    "correctAnswer": "choice"
+  },
+  {
+    "id": 9,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "He denied _____ (take) the money.",
+    "options": [
+      "to take",
+      "taking",
+      "to have taken",
+      "having taken"
+    ],
+    "correctAnswer": "taking"
+  },
+  {
+    "id": 10,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'compulsory'?",
+    "options": [
+      "Necessary",
+      "Required",
+      "Optional",
+      "Essential"
+    ],
+    "correctAnswer": "Optional"
+  },
+  {
+    "id": 11,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "I wish I _____ (speak) French fluently.",
+    "options": [
+      "speak",
+      "spoke",
+      "had spoken",
+      "could speak"
+    ],
+    "correctAnswer": "could speak"
+  },
+  {
+    "id": 12,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Something that is 'inevitable' is certain to _____",
+    "options": [
+      "fail",
+      "succeed",
+      "happen",
+      "change"
+    ],
+    "correctAnswer": "happen"
+  },
+  {
+    "id": 13,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "She suggested _____ (go) to the cinema.",
+    "options": [
+      "to go",
+      "going",
+      "go",
+      "to going"
+    ],
+    "correctAnswer": "going"
+  },
+  {
+    "id": 14,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "To 'catch up with' someone means to reach the same ____ as them.",
+    "options": [
+      "place",
+      "time",
+      "level",
+      "opinion"
+    ],
+    "correctAnswer": "level"
+  },
+  {
+    "id": 15,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "He _____ (work) there for ten years before he finally got promoted.",
+    "options": [
+      "worked",
+      "was working",
+      "has worked",
+      "had been working"
+    ],
+    "correctAnswer": "had been working"
+  },
+  {
+    "id": 16,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "A 'hoax' is something intended to ____ people.",
+    "options": [
+      "help",
+      "inform",
+      "entertain",
+      "deceive"
+    ],
+    "correctAnswer": "deceive"
+  },
+  {
+    "id": 17,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "It's no use _____ (cry) over spilled milk.",
+    "options": [
+      "to cry",
+      "crying",
+      "cry",
+      "cried"
+    ],
+    "correctAnswer": "crying"
+  },
+  {
+    "id": 18,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Someone who is 'conscientious' is very _____",
+    "options": [
+      "lazy",
+      "careless",
+      "careful and hardworking",
+      "sociable"
+    ],
+    "correctAnswer": "careful and hardworking"
+  },
+  {
+    "id": 19,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "The man _____ wallet I found contacted me yesterday.",
+    "options": [
+      "who",
+      "which",
+      "that",
+      "whose"
+    ],
+    "correctAnswer": "whose"
+  },
+  {
+    "id": 20,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'approve'?",
+    "options": [
+      "Agree",
+      "Support",
+      "Disapprove",
+      "Accept"
+    ],
+    "correctAnswer": "Disapprove"
+  },
+  {
+    "id": 21,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "He regrets _____ (not study) harder for the exam.",
+    "options": [
+      "to not study",
+      "not studying",
+      "not to study",
+      "to not studying"
+    ],
+    "correctAnswer": "not studying"
+  },
+  {
+    "id": 22,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "A 'lucrative' business is one that makes a lot of _____",
+    "options": [
+      "noise",
+      "problems",
+      "money",
+      "friends"
+    ],
+    "correctAnswer": "money"
+  },
+  {
+    "id": 23,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "She _____ (might / leave) her keys at home, but she's not sure.",
+    "options": [
+      "might leave",
+      "might have left",
+      "might be leaving",
+      "might left"
+    ],
+    "correctAnswer": "might have left"
+  },
+  {
+    "id": 24,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "To 'fall out with' someone means to _____",
+    "options": [
+      "fall down",
+      "agree with",
+      "have an argument with",
+      "meet by chance"
+    ],
+    "correctAnswer": "have an argument with"
+  },
+  {
+    "id": 25,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "Having _____ the book, I returned it to the library.",
+    "options": [
+      "read",
+      "reading",
+      "readed",
+      "to read"
+    ],
+    "correctAnswer": "read"
+  },
+  {
+    "id": 26,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Someone who can be trusted is _____",
+    "options": [
+      "reliable",
+      "dishonest",
+      "moody",
+      "stubborn"
+    ],
+    "correctAnswer": "reliable"
+  },
+  {
+    "id": 27,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "It is believed _____ the ancient Egyptians built the pyramids.",
+    "options": [
+      "that",
+      "to",
+      "which",
+      "what"
+    ],
+    "correctAnswer": "that"
+  },
+  {
+    "id": 28,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "A 'downside' is a _____",
+    "options": [
+      "benefit",
+      "disadvantage",
+      "solution",
+      "reason"
+    ],
+    "correctAnswer": "disadvantage"
+  },
+  {
+    "id": 29,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "I'd rather you _____ (not tell) anyone about this.",
+    "options": [
+      "don't tell",
+      "didn't tell",
+      "not tell",
+      "won't tell"
+    ],
+    "correctAnswer": "didn't tell"
+  },
+  {
+    "id": 30,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'modest'?",
+    "options": [
+      "Shy",
+      "Humble",
+      "Arrogant",
+      "Quiet"
+    ],
+    "correctAnswer": "Arrogant"
+  },
+  {
+    "id": 31,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "They are used _____ (get up) early.",
+    "options": [
+      "to get up",
+      "to getting up",
+      "get up",
+      "getting up"
+    ],
+    "correctAnswer": "to getting up"
+  },
+  {
+    "id": 32,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "To 'assess' something means to ____ its value or quality.",
+    "options": [
+      "ignore",
+      "increase",
+      "evaluate",
+      "hide"
+    ],
+    "correctAnswer": "evaluate"
+  },
+  {
+    "id": 33,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "Hardly _____ (I / arrive) when the phone rang.",
+    "options": [
+      "I arrived",
+      "did I arrive",
+      "I had arrived",
+      "had I arrived"
+    ],
+    "correctAnswer": "had I arrived"
+  },
+  {
+    "id": 34,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Something that is 'ambiguous' is _____",
+    "options": [
+      "clear",
+      "certain",
+      "unclear or doubtful",
+      "obvious"
+    ],
+    "correctAnswer": "unclear or doubtful"
+  },
+  {
+    "id": 35,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "He works as an engineer, _____ he?",
+    "options": [
+      "is",
+      "isn't",
+      "does",
+      "doesn't"
+    ],
+    "correctAnswer": "doesn't"
+  },
+  {
+    "id": 36,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "To 'run out of' something means you have ____ left.",
+    "options": [
+      "a lot",
+      "some",
+      "none",
+      "plenty"
+    ],
+    "correctAnswer": "none"
+  },
+  {
+    "id": 37,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "If she had studied more, she _____ (pass) the exam easily.",
+    "options": [
+      "would pass",
+      "will pass",
+      "passed",
+      "would have passed"
+    ],
+    "correctAnswer": "would have passed"
+  },
+  {
+    "id": 38,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "A 'tedious' task is _____",
+    "options": [
+      "exciting",
+      "quick",
+      "boring and repetitive",
+      "difficult"
+    ],
+    "correctAnswer": "boring and repetitive"
+  },
+  {
+    "id": 39,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "I remember _____ (meet) him at a conference last year.",
+    "options": [
+      "to meet",
+      "meeting",
+      "meet",
+      "to meeting"
+    ],
+    "correctAnswer": "meeting"
+  },
+  {
+    "id": 40,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'optimistic'?",
+    "options": [
+      "Hopeful",
+      "Cheerful",
+      "Pessimistic",
+      "Positive"
+    ],
+    "correctAnswer": "Pessimistic"
+  },
+  {
+    "id": 41,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "The new regulations are expected _____ (reduce) pollution.",
+    "options": [
+      "reducing",
+      "reduce",
+      "to reduce",
+      "to reducing"
+    ],
+    "correctAnswer": "to reduce"
+  },
+  {
+    "id": 42,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "To 'make up for' something means to _____",
+    "options": [
+      "invent",
+      "compensate for",
+      "prepare",
+      "understand"
+    ],
+    "correctAnswer": "compensate for"
+  },
+  {
+    "id": 43,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "You _____ (should / tell) me you were going to be late!",
+    "options": [
+      "should tell",
+      "should told",
+      "should have told",
+      "should be telling"
+    ],
+    "correctAnswer": "should have told"
+  },
+  {
+    "id": 44,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "A feeling of strong dislike.",
+    "options": [
+      "Affection",
+      "Admiration",
+      "Animosity",
+      "Sympathy"
+    ],
+    "correctAnswer": "Animosity"
+  },
+  {
+    "id": 45,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "Despite _____ (feel) ill, she went to work.",
+    "options": [
+      "feel",
+      "feeling",
+      "felt",
+      "to feel"
+    ],
+    "correctAnswer": "feeling"
+  },
+  {
+    "id": 46,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Something 'feasible' is _____",
+    "options": [
+      "impossible",
+      "difficult",
+      "possible to do",
+      "expensive"
+    ],
+    "correctAnswer": "possible to do"
+  },
+  {
+    "id": 47,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "Not only _____ (he / arrive) late, but he also forgot the presentation.",
+    "options": [
+      "he arrived",
+      "did he arrive",
+      "he had arrived",
+      "had he arrived"
+    ],
+    "correctAnswer": "did he arrive"
+  },
+  {
+    "id": 48,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'temporary'?",
+    "options": [
+      "Short",
+      "Brief",
+      "Permanent",
+      "Momentary"
+    ],
+    "correctAnswer": "Permanent"
+  },
+  {
+    "id": 49,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "I wish I _____ (not eat) so much cake last night.",
+    "options": [
+      "didn't eat",
+      "hadn't eaten",
+      "wouldn't eat",
+      "wasn't eating"
+    ],
+    "correctAnswer": "hadn't eaten"
+  },
+  {
+    "id": 50,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "To 'brush up on' a skill means to ____ it.",
+    "options": [
+      "learn for the first time",
+      "forget",
+      "improve by practising",
+      "teach"
+    ],
+    "correctAnswer": "improve by practising"
+  },
+  {
+    "id": 51,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "He insisted _____ (pay) for the meal.",
+    "options": [
+      "to pay",
+      "on paying",
+      "paying",
+      "pay"
+    ],
+    "correctAnswer": "on paying"
+  },
+  {
+    "id": 52,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Someone who is 'versatile' can _____",
+    "options": [
+      "only do one thing",
+      "do many different things",
+      "talk a lot",
+      "work very hard"
+    ],
+    "correctAnswer": "do many different things"
+  },
+  {
+    "id": 53,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "By the end of next year, I _____ (finish) my studies.",
+    "options": [
+      "finish",
+      "will finish",
+      "will be finishing",
+      "will have finished"
+    ],
+    "correctAnswer": "will have finished"
+  },
+  {
+    "id": 54,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "A 'drawback' is another word for _____",
+    "options": [
+      "advantage",
+      "benefit",
+      "disadvantage",
+      "feature"
+    ],
+    "correctAnswer": "disadvantage"
+  },
+  {
+    "id": 55,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "It's time we _____ (leave).",
+    "options": [
+      "leave",
+      "left",
+      "should leave",
+      "are leaving"
+    ],
+    "correctAnswer": "left"
+  },
+  {
+    "id": 56,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'transparent'?",
+    "options": [
+      "Clear",
+      "Opaque",
+      "Visible",
+      "Bright"
+    ],
+    "correctAnswer": "Opaque"
+  },
+  {
+    "id": 57,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "The project, _____ on time, was a great success.",
+    "options": [
+      "completing",
+      "completed",
+      "having completed",
+      "was completed"
+    ],
+    "correctAnswer": "completed"
+  },
+  {
+    "id": 58,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "To 'liaise with' someone means to ____ with them.",
+    "options": [
+      "argue",
+      "compete",
+      "communicate and cooperate",
+      "disagree"
+    ],
+    "correctAnswer": "communicate and cooperate"
+  },
+  {
+    "id": 59,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "I was made _____ (apologize) for my mistake.",
+    "options": [
+      "apologize",
+      "to apologize",
+      "apologizing",
+      "apologized"
+    ],
+    "correctAnswer": "to apologize"
+  },
+  {
+    "id": 60,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Someone who is 'gullible' is easily _____",
+    "options": [
+      "angered",
+      "persuaded/deceived",
+      "bored",
+      "impressed"
+    ],
+    "correctAnswer": "persuaded/deceived"
+  },
+  {
+    "id": 61,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "She _____ (can't / see) him yesterday because he was out.",
+    "options": [
+      "can't see",
+      "couldn't see",
+      "can't have seen",
+      "couldn't have seen"
+    ],
+    "correctAnswer": "couldn't see"
+  },
+  {
+    "id": 62,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "A sudden feeling of nervousness or excitement.",
+    "options": [
+      "Calmness",
+      "Thrill",
+      "Boredom",
+      "Sadness"
+    ],
+    "correctAnswer": "Thrill"
+  },
+  {
+    "id": 63,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "He advised me _____ (sell) the shares.",
+    "options": [
+      "sell",
+      "selling",
+      "to sell",
+      "that I sell"
+    ],
+    "correctAnswer": "to sell"
+  },
+  {
+    "id": 64,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'relevant'?",
+    "options": [
+      "Important",
+      "Connected",
+      "Irrelevant",
+      "Appropriate"
+    ],
+    "correctAnswer": "Irrelevant"
+  },
+  {
+    "id": 65,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "_____ having a headache, I went to the party.",
+    "options": [
+      "Despite",
+      "Although",
+      "In spite",
+      "However"
+    ],
+    "correctAnswer": "Despite"
+  },
+  {
+    "id": 66,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "To 'come across' something means to ____ it unexpectedly.",
+    "options": [
+      "search for",
+      "find",
+      "lose",
+      "create"
+    ],
+    "correctAnswer": "find"
+  },
+  {
+    "id": 67,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "If only I _____ (listen) to your advice!",
+    "options": [
+      "listened",
+      "had listened",
+      "would listen",
+      "could listen"
+    ],
+    "correctAnswer": "had listened"
+  },
+  {
+    "id": 68,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "A 'resilient' person can ____ quickly from difficulties.",
+    "options": [
+      "escape",
+      "suffer",
+      "recover",
+      "hide"
+    ],
+    "correctAnswer": "recover"
+  },
+  {
+    "id": 69,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "This is the first time I _____ (eat) Thai food.",
+    "options": [
+      "eat",
+      "ate",
+      "have eaten",
+      "had eaten"
+    ],
+    "correctAnswer": "have eaten"
+  },
+  {
+    "id": 70,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Something done intentionally is done _____",
+    "options": [
+      "accidentally",
+      "occasionally",
+      "deliberately",
+      "reluctantly"
+    ],
+    "correctAnswer": "deliberately"
+  },
+  {
+    "id": 71,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "I look forward _____ (hear) from you soon.",
+    "options": [
+      "to hear",
+      "hearing",
+      "to hearing",
+      "hear"
+    ],
+    "correctAnswer": "to hearing"
+  },
+  {
+    "id": 72,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'cautious'?",
+    "options": [
+      "Careful",
+      "Careless/Reckless",
+      "Nervous",
+      "Wise"
+    ],
+    "correctAnswer": "Careless/Reckless"
+  },
+  {
+    "id": 73,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "She reminded me _____ (bring) my passport.",
+    "options": [
+      "bring",
+      "bringing",
+      "to bring",
+      "that I bring"
+    ],
+    "correctAnswer": "to bring"
+  },
+  {
+    "id": 74,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "A feeling of being grateful.",
+    "options": [
+      "Anger",
+      "Gratitude",
+      "Regret",
+      "Envy"
+    ],
+    "correctAnswer": "Gratitude"
+  },
+  {
+    "id": 75,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "He didn't use _____ (like) vegetables, but now he loves them.",
+    "options": [
+      "to like",
+      "liking",
+      "to liking",
+      "like"
+    ],
+    "correctAnswer": "to like"
+  },
+  {
+    "id": 76,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "To 'stand out' means to be _____",
+    "options": [
+      "hidden",
+      "average",
+      "noticeable",
+      "quiet"
+    ],
+    "correctAnswer": "noticeable"
+  },
+  {
+    "id": 77,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "It _____ (say) that eating fish is good for the brain.",
+    "options": [
+      "says",
+      "said",
+      "is said",
+      "was saying"
+    ],
+    "correctAnswer": "is said"
+  },
+  {
+    "id": 78,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Someone who is 'stubborn' is _____",
+    "options": [
+      "flexible",
+      "easy-going",
+      "unwilling to change",
+      "kind"
+    ],
+    "correctAnswer": "unwilling to change"
+  },
+  {
+    "id": 79,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "I would appreciate it if you _____ (send) the report by tomorrow.",
+    "options": [
+      "send",
+      "sent",
+      "could send",
+      "will send"
+    ],
+    "correctAnswer": "could send"
+  },
+  {
+    "id": 80,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'strengthen'?",
+    "options": [
+      "Build",
+      "Weaken",
+      "Improve",
+      "Support"
+    ],
+    "correctAnswer": "Weaken"
+  },
+  {
+    "id": 81,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "No sooner _____ (he / sit down) than the doorbell rang.",
+    "options": [
+      "he sat down",
+      "did he sit down",
+      "he had sat down",
+      "had he sat down"
+    ],
+    "correctAnswer": "had he sat down"
+  },
+  {
+    "id": 82,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "A 'prerequisite' is something that is _____",
+    "options": [
+      "optional",
+      "unnecessary",
+      "required beforehand",
+      "additional"
+    ],
+    "correctAnswer": "required beforehand"
+  },
+  {
+    "id": 83,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "She apologized _____ (be) late.",
+    "options": [
+      "to be",
+      "being",
+      "for being",
+      "be"
+    ],
+    "correctAnswer": "for being"
+  },
+  {
+    "id": 84,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "To 'implement' a plan means to _____",
+    "options": [
+      "cancel it",
+      "discuss it",
+      "put it into action",
+      "change it"
+    ],
+    "correctAnswer": "put it into action"
+  },
+  {
+    "id": 85,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "He asked where _____ (I / buy) my jacket.",
+    "options": [
+      "I bought",
+      "did I buy",
+      "I had bought",
+      "had I bought"
+    ],
+    "correctAnswer": "I had bought"
+  },
+  {
+    "id": 86,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'prohibit'?",
+    "options": [
+      "Forbid",
+      "Ban",
+      "Allow/Permit",
+      "Stop"
+    ],
+    "correctAnswer": "Allow/Permit"
+  },
+  {
+    "id": 87,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "I'm not keen _____ (watch) horror films.",
+    "options": [
+      "to watch",
+      "on watching",
+      "watching",
+      "watch"
+    ],
+    "correctAnswer": "on watching"
+  },
+  {
+    "id": 88,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "A 'breakthrough' is an important _____",
+    "options": [
+      "problem",
+      "delay",
+      "discovery",
+      "meeting"
+    ],
+    "correctAnswer": "discovery"
+  },
+  {
+    "id": 89,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "She must _____ (forget) about the meeting; she's usually punctual.",
+    "options": [
+      "forget",
+      "forgot",
+      "be forgetting",
+      "have forgotten"
+    ],
+    "correctAnswer": "have forgotten"
+  },
+  {
+    "id": 90,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Someone who is 'eloquent' speaks _____",
+    "options": [
+      "loudly",
+      "quickly",
+      "persuasively and fluently",
+      "rarely"
+    ],
+    "correctAnswer": "persuasively and fluently"
+  },
+  {
+    "id": 91,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "I succeeded _____ (pass) the driving test.",
+    "options": [
+      "to pass",
+      "passing",
+      "in passing",
+      "pass"
+    ],
+    "correctAnswer": "in passing"
+  },
+  {
+    "id": 92,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'vague'?",
+    "options": [
+      "Unclear",
+      "Precise/Specific",
+      "General",
+      "Confusing"
+    ],
+    "correctAnswer": "Precise/Specific"
+  },
+  {
+    "id": 93,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "The longer you wait, _____ (it / become).",
+    "options": [
+      "difficult",
+      "more difficult",
+      "the more difficult",
+      "the most difficult"
+    ],
+    "correctAnswer": "the more difficult"
+  },
+  {
+    "id": 94,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "To 'postpone' something means to arrange it for a ____ time.",
+    "options": [
+      "earlier",
+      "later",
+      "fixed",
+      "short"
+    ],
+    "correctAnswer": "later"
+  },
+  {
+    "id": 95,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "He's the artist _____ paintings are exhibited in the gallery.",
+    "options": [
+      "who",
+      "which",
+      "that",
+      "whose"
+    ],
+    "correctAnswer": "whose"
+  },
+  {
+    "id": 96,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Something 'obsolete' is _____",
+    "options": [
+      "modern",
+      "useful",
+      "outdated",
+      "popular"
+    ],
+    "correctAnswer": "outdated"
+  },
+  {
+    "id": 97,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "If you _____ (press) that button, the machine starts.",
+    "options": [
+      "press",
+      "pressed",
+      "will press",
+      "would press"
+    ],
+    "correctAnswer": "press"
+  },
+  {
+    "id": 98,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'mandatory'?",
+    "options": [
+      "Required",
+      "Voluntary/Optional",
+      "Necessary",
+      "Urgent"
+    ],
+    "correctAnswer": "Voluntary/Optional"
+  },
+  {
+    "id": 99,
+    "level": "B2",
+    "topic": "Grammar",
+    "question": "She finally admitted _____ (break) the vase.",
+    "options": [
+      "to break",
+      "breaking",
+      "to breaking",
+      "break"
+    ],
+    "correctAnswer": "breaking"
+  },
+  {
+    "id": 100,
+    "level": "B2",
+    "topic": "Vocabulary",
+    "question": "To 'enhance' something means to ____ it.",
+    "options": [
+      "reduce",
+      "destroy",
+      "improve",
+      "ignore"
+    ],
+    "correctAnswer": "improve"
+  }
+]

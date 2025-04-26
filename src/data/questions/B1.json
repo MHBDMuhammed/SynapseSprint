@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "I _____ (live) in this city since 2015.",
+    "options": [
+      "live",
+      "lived",
+      "have lived",
+      "am living"
+    ],
+    "correctAnswer": "have lived"
+  },
+  {
+    "id": 2,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "Which word means 'very important'?",
+    "options": [
+      "Optional",
+      "Crucial",
+      "Minor",
+      "Simple"
+    ],
+    "correctAnswer": "Crucial"
+  },
+  {
+    "id": 3,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "If she _____ (study) harder, she _____ (pass) the exam.",
+    "options": [
+      "studies / will pass",
+      "studied / would pass",
+      "studies / passes",
+      "study / will pass"
+    ],
+    "correctAnswer": "studies / will pass"
+  },
+  {
+    "id": 4,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "What does 'look after' mean?",
+    "options": [
+      "Search for",
+      "Take care of",
+      "Find by chance",
+      "Visit"
+    ],
+    "correctAnswer": "Take care of"
+  },
+  {
+    "id": 5,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "He _____ TV when I arrived home.",
+    "options": [
+      "watched",
+      "watches",
+      "was watching",
+      "has watched"
+    ],
+    "correctAnswer": "was watching"
+  },
+  {
+    "id": 6,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "Someone who is often worried about things is _____",
+    "options": [
+      "calm",
+      "anxious",
+      "cheerful",
+      "lazy"
+    ],
+    "correctAnswer": "anxious"
+  },
+  {
+    "id": 7,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "This book _____ (write) by a famous author.",
+    "options": [
+      "wrote",
+      "is writing",
+      "was written",
+      "writes"
+    ],
+    "correctAnswer": "was written"
+  },
+  {
+    "id": 8,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'generous'?",
+    "options": [
+      "Kind",
+      "Friendly",
+      "Mean",
+      "Polite"
+    ],
+    "correctAnswer": "Mean"
+  },
+  {
+    "id": 9,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "I haven't seen him _____ last Christmas.",
+    "options": [
+      "for",
+      "since",
+      "ago",
+      "from"
+    ],
+    "correctAnswer": "since"
+  },
+  {
+    "id": 10,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "A holiday where you camp is called a _____ holiday.",
+    "options": [
+      "package",
+      "camping",
+      "beach",
+      "city"
+    ],
+    "correctAnswer": "camping"
+  },
+  {
+    "id": 11,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "You _____ wear a seatbelt in the car. It's the law.",
+    "options": [
+      "should",
+      "might",
+      "must",
+      "can"
+    ],
+    "correctAnswer": "must"
+  },
+  {
+    "id": 12,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "To 'give up' smoking means to _____ smoking.",
+    "options": [
+      "start",
+      "continue",
+      "stop",
+      "reduce"
+    ],
+    "correctAnswer": "stop"
+  },
+  {
+    "id": 13,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "She asked me _____ I was doing.",
+    "options": [
+      "what",
+      "if",
+      "that",
+      "which"
+    ],
+    "correctAnswer": "what"
+  },
+  {
+    "id": 14,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "Someone who doesn't like working or using energy.",
+    "options": [
+      "Energetic",
+      "Active",
+      "Lazy",
+      "Busy"
+    ],
+    "correctAnswer": "Lazy"
+  },
+  {
+    "id": 15,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "We _____ (visit) Paris twice so far.",
+    "options": [
+      "visited",
+      "have visited",
+      "were visiting",
+      "visit"
+    ],
+    "correctAnswer": "have visited"
+  },
+  {
+    "id": 16,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "The noun form of the adjective 'happy' is _____",
+    "options": [
+      "happily",
+      "happiness",
+      "unhappy",
+      "happen"
+    ],
+    "correctAnswer": "happiness"
+  },
+  {
+    "id": 17,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "If I _____ (be) you, I _____ (apologize).",
+    "options": [
+      "am / will",
+      "was / would",
+      "were / would",
+      "am / would"
+    ],
+    "correctAnswer": "were / would"
+  },
+  {
+    "id": 18,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "What does the idiom 'break a leg' mean?",
+    "options": [
+      "Good luck",
+      "Be careful",
+      "Hurt yourself",
+      "Work hard"
+    ],
+    "correctAnswer": "Good luck"
+  },
+  {
+    "id": 19,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "Mobile phones _____ (invent) many years ago.",
+    "options": [
+      "invented",
+      "were invented",
+      "invent",
+      "are invented"
+    ],
+    "correctAnswer": "were invented"
+  },
+  {
+    "id": 20,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "A person who designs buildings.",
+    "options": [
+      "Engineer",
+      "Builder",
+      "Architect",
+      "Designer"
+    ],
+    "correctAnswer": "Architect"
+  },
+  {
+    "id": 21,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "I've been waiting _____ over an hour!",
+    "options": [
+      "since",
+      "for",
+      "ago",
+      "while"
+    ],
+    "correctAnswer": "for"
+  },
+  {
+    "id": 22,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'success'?",
+    "options": [
+      "Achievement",
+      "Victory",
+      "Failure",
+      "Progress"
+    ],
+    "correctAnswer": "Failure"
+  },
+  {
+    "id": 23,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "He told me _____ he was tired.",
+    "options": [
+      "if",
+      "what",
+      "that",
+      "who"
+    ],
+    "correctAnswer": "that"
+  },
+  {
+    "id": 24,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "To feel 'delighted' means to feel very _____",
+    "options": [
+      "sad",
+      "angry",
+      "happy",
+      "tired"
+    ],
+    "correctAnswer": "happy"
+  },
+  {
+    "id": 25,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "While they _____ (play) football, it _____ (start) to rain.",
+    "options": [
+      "played / started",
+      "were playing / started",
+      "played / was starting",
+      "were playing / was starting"
+    ],
+    "correctAnswer": "were playing / started"
+  },
+  {
+    "id": 26,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "Which word describes someone who likes meeting people?",
+    "options": [
+      "Shy",
+      "Quiet",
+      "Sociable",
+      "Serious"
+    ],
+    "correctAnswer": "Sociable"
+  },
+  {
+    "id": 27,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "You _____ come to the party if you don't want to.",
+    "options": [
+      "mustn't",
+      "don't have to",
+      "shouldn't",
+      "can't"
+    ],
+    "correctAnswer": "don't have to"
+  },
+  {
+    "id": 28,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "The money a person earns from their job.",
+    "options": [
+      "Debt",
+      "Salary",
+      "Tax",
+      "Loan"
+    ],
+    "correctAnswer": "Salary"
+  },
+  {
+    "id": 29,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "Have you _____ finished your homework?",
+    "options": [
+      "yet",
+      "already",
+      "still",
+      "just"
+    ],
+    "correctAnswer": "already"
+  },
+  {
+    "id": 30,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "A synonym for 'choose' is _____",
+    "options": [
+      "Refuse",
+      "Select",
+      "Forget",
+      "Collect"
+    ],
+    "correctAnswer": "Select"
+  },
+  {
+    "id": 31,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "English _____ in many countries around the world.",
+    "options": [
+      "speaks",
+      "is speaking",
+      "is spoken",
+      "spoke"
+    ],
+    "correctAnswer": "is spoken"
+  },
+  {
+    "id": 32,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "The study of past events.",
+    "options": [
+      "Geography",
+      "Science",
+      "History",
+      "Art"
+    ],
+    "correctAnswer": "History"
+  },
+  {
+    "id": 33,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "I promise I _____ (help) you tomorrow.",
+    "options": [
+      "help",
+      "am helping",
+      "will help",
+      "going to help"
+    ],
+    "correctAnswer": "will help"
+  },
+  {
+    "id": 34,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "Someone who doesn't tell the truth is _____",
+    "options": [
+      "honest",
+      "reliable",
+      "dishonest",
+      "loyal"
+    ],
+    "correctAnswer": "dishonest"
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "He has worked here _____ ten years.",
+    "options": [
+      "since",
+      "for",
+      "ago",
+      "in"
+    ],
+    "correctAnswer": "for"
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "To 'put off' a meeting means to _____",
+    "options": [
+      "cancel",
+      "attend",
+      "postpone",
+      "organize"
+    ],
+    "correctAnswer": "postpone"
+  },
+  {
+    "id": 37,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "If I _____ (win) the lottery, I _____ (buy) a big house.",
+    "options": [
+      "win / will buy",
+      "won / would buy",
+      "win / buy",
+      "won / will buy"
+    ],
+    "correctAnswer": "won / would buy"
+  },
+  {
+    "id": 38,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "A journey by sea.",
+    "options": [
+      "Flight",
+      "Trip",
+      "Voyage",
+      "Drive"
+    ],
+    "correctAnswer": "Voyage"
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "My wallet _____ (steal) yesterday!",
+    "options": [
+      "stole",
+      "was stolen",
+      "is stolen",
+      "has stolen"
+    ],
+    "correctAnswer": "was stolen"
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'patient' (adjective)?",
+    "options": [
+      "Calm",
+      "Impatient",
+      "Quiet",
+      "Nervous"
+    ],
+    "correctAnswer": "Impatient"
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "She _____ (study) English for three years now.",
+    "options": [
+      "studies",
+      "has studied",
+      "has been studying",
+      "studied"
+    ],
+    "correctAnswer": "has been studying"
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "A formal word for 'ask' is _____",
+    "options": [
+      "Tell",
+      "Say",
+      "Request",
+      "Answer"
+    ],
+    "correctAnswer": "Request"
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "He asked me _____ I could help him.",
+    "options": [
+      "that",
+      "what",
+      "if",
+      "who"
+    ],
+    "correctAnswer": "if"
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "Someone who writes books.",
+    "options": [
+      "Author",
+      "Poet",
+      "Journalist",
+      "Publisher"
+    ],
+    "correctAnswer": "Author"
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "You _____ eat fruit and vegetables every day. It's good advice.",
+    "options": [
+      "must",
+      "should",
+      "might",
+      "have to"
+    ],
+    "correctAnswer": "should"
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "To 'look forward to' something means you feel ____ about it.",
+    "options": [
+      "sad",
+      "worried",
+      "excited",
+      "bored"
+    ],
+    "correctAnswer": "excited"
+  },
+  {
+    "id": 47,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "I _____ (not see) that film yet.",
+    "options": [
+      "didn't see",
+      "haven't seen",
+      "don't see",
+      "am not seeing"
+    ],
+    "correctAnswer": "haven't seen"
+  },
+  {
+    "id": 48,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "The natural environment where animals and plants live.",
+    "options": [
+      "City",
+      "Habitat",
+      "Country",
+      "House"
+    ],
+    "correctAnswer": "Habitat"
+  },
+  {
+    "id": 49,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "This is the park _____ we usually play football.",
+    "options": [
+      "which",
+      "who",
+      "where",
+      "that"
+    ],
+    "correctAnswer": "where"
+  },
+  {
+    "id": 50,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'polite'?",
+    "options": [
+      "Kind",
+      "Friendly",
+      "Rude",
+      "Nice"
+    ],
+    "correctAnswer": "Rude"
+  },
+  {
+    "id": 51,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "If you _____ (heat) ice, it _____ (melt).",
+    "options": [
+      "heat / melts",
+      "heated / would melt",
+      "heat / will melt",
+      "will heat / melts"
+    ],
+    "correctAnswer": "heat / melts"
+  },
+  {
+    "id": 52,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "To 'get on well with' someone means to have a good _____",
+    "options": [
+      "argument",
+      "relationship",
+      "fight",
+      "discussion"
+    ],
+    "correctAnswer": "relationship"
+  },
+  {
+    "id": 53,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "The letters _____ (deliver) every morning.",
+    "options": [
+      "deliver",
+      "delivered",
+      "are delivered",
+      "were delivering"
+    ],
+    "correctAnswer": "are delivered"
+  },
+  {
+    "id": 54,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "A feeling of great happiness.",
+    "options": [
+      "Sadness",
+      "Anger",
+      "Joy",
+      "Fear"
+    ],
+    "correctAnswer": "Joy"
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "She said she _____ (be) tired the day before.",
+    "options": [
+      "is",
+      "was",
+      "has been",
+      "had been"
+    ],
+    "correctAnswer": "had been"
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "Someone who is good at learning languages is _____",
+    "options": [
+      "artistic",
+      "athletic",
+      "musical",
+      "linguistic"
+    ],
+    "correctAnswer": "linguistic"
+  },
+  {
+    "id": 57,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "I think I _____ (go) for a walk later.",
+    "options": [
+      "go",
+      "am going",
+      "will go",
+      "went"
+    ],
+    "correctAnswer": "will go"
+  },
+  {
+    "id": 58,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'tidy'?",
+    "options": [
+      "Clean",
+      "Organized",
+      "Messy",
+      "Neat"
+    ],
+    "correctAnswer": "Messy"
+  },
+  {
+    "id": 59,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "He _____ (work) as a teacher for 5 years before he changed jobs.",
+    "options": [
+      "worked",
+      "has worked",
+      "had worked",
+      "was working"
+    ],
+    "correctAnswer": "had worked"
+  },
+  {
+    "id": 60,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "To 'take off' (for a plane) means to _____",
+    "options": [
+      "land",
+      "arrive",
+      "leave the ground",
+      "fly fast"
+    ],
+    "correctAnswer": "leave the ground"
+  },
+  {
+    "id": 61,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "It _____ rain tomorrow, but I'm not sure.",
+    "options": [
+      "must",
+      "will",
+      "should",
+      "might"
+    ],
+    "correctAnswer": "might"
+  },
+  {
+    "id": 62,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "The equipment you need for a particular activity.",
+    "options": [
+      "Tools",
+      "Gadgets",
+      "Gear",
+      "Stuff"
+    ],
+    "correctAnswer": "Gear"
+  },
+  {
+    "id": 63,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "The film, _____ won several awards, is based on a true story.",
+    "options": [
+      "that",
+      "who",
+      "which",
+      "where"
+    ],
+    "correctAnswer": "which"
+  },
+  {
+    "id": 64,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "Someone who doesn't show their feelings easily.",
+    "options": [
+      "Emotional",
+      "Sensitive",
+      "Reserved",
+      "Outgoing"
+    ],
+    "correctAnswer": "Reserved"
+  },
+  {
+    "id": 65,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "How long _____ (you / know) Peter?",
+    "options": [
+      "do you know",
+      "are you knowing",
+      "have you known",
+      "did you know"
+    ],
+    "correctAnswer": "have you known"
+  },
+  {
+    "id": 66,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'borrow'?",
+    "options": [
+      "Give",
+      "Lend",
+      "Take",
+      "Keep"
+    ],
+    "correctAnswer": "Lend"
+  },
+  {
+    "id": 67,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "If I _____ (have) more time, I _____ (learn) another language.",
+    "options": [
+      "have / will learn",
+      "had / would learn",
+      "have / learn",
+      "had / learned"
+    ],
+    "correctAnswer": "had / would learn"
+  },
+  {
+    "id": 68,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "The subject about numbers and shapes.",
+    "options": [
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Mathematics"
+    ],
+    "correctAnswer": "Mathematics"
+  },
+  {
+    "id": 69,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "My keys _____ (find) under the sofa yesterday.",
+    "options": [
+      "found",
+      "were found",
+      "find",
+      "are found"
+    ],
+    "correctAnswer": "were found"
+  },
+  {
+    "id": 70,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "To 'depend on' someone means you _____ them.",
+    "options": [
+      "trust",
+      "like",
+      "need",
+      "know"
+    ],
+    "correctAnswer": "trust"
+  },
+  {
+    "id": 71,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "She told me she _____ (go) to the party the next day.",
+    "options": [
+      "is going",
+      "will go",
+      "was going",
+      "goes"
+    ],
+    "correctAnswer": "was going"
+  },
+  {
+    "id": 72,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "Someone who is not brave is _____",
+    "options": [
+      "Courageous",
+      "Bold",
+      "Cowardly",
+      "Adventurous"
+    ],
+    "correctAnswer": "Cowardly"
+  },
+  {
+    "id": 73,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "We _____ (not finish) the project yet.",
+    "options": [
+      "didn't finish",
+      "don't finish",
+      "haven't finished",
+      "aren't finishing"
+    ],
+    "correctAnswer": "haven't finished"
+  },
+  {
+    "id": 74,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "The verb form of the noun 'advice' is _____",
+    "options": [
+      "advise",
+      "adviceful",
+      "advisable",
+      "adviser"
+    ],
+    "correctAnswer": "advise"
+  },
+  {
+    "id": 75,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "He _____ (just / arrive) from his trip.",
+    "options": [
+      "just arrived",
+      "has just arrived",
+      "is just arriving",
+      "had just arrived"
+    ],
+    "correctAnswer": "has just arrived"
+  },
+  {
+    "id": 76,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'increase'?",
+    "options": [
+      "Grow",
+      "Rise",
+      "Decrease",
+      "Expand"
+    ],
+    "correctAnswer": "Decrease"
+  },
+  {
+    "id": 77,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "This car _____ (make) in Germany.",
+    "options": [
+      "made",
+      "makes",
+      "is made",
+      "was making"
+    ],
+    "correctAnswer": "is made"
+  },
+  {
+    "id": 78,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "Very tired means _____",
+    "options": [
+      "Sleepy",
+      "Exhausted",
+      "Bored",
+      "Relaxed"
+    ],
+    "correctAnswer": "Exhausted"
+  },
+  {
+    "id": 79,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "I _____ (meet) my friend for lunch tomorrow at 1 PM.",
+    "options": [
+      "meet",
+      "will meet",
+      "am meeting",
+      "met"
+    ],
+    "correctAnswer": "am meeting"
+  },
+  {
+    "id": 80,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "To 'look up' a word means to _____ its meaning.",
+    "options": [
+      "invent",
+      "find",
+      "forget",
+      "guess"
+    ],
+    "correctAnswer": "find"
+  },
+  {
+    "id": 81,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "If we _____ (leave) now, we _____ (be) on time.",
+    "options": [
+      "leave / will be",
+      "left / would be",
+      "leave / are",
+      "left / will be"
+    ],
+    "correctAnswer": "leave / will be"
+  },
+  {
+    "id": 82,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "Someone who thinks only about themselves.",
+    "options": [
+      "Generous",
+      "Kind",
+      "Selfish",
+      "Helpful"
+    ],
+    "correctAnswer": "Selfish"
+  },
+  {
+    "id": 83,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "She _____ (already / see) that movie.",
+    "options": [
+      "already saw",
+      "has already seen",
+      "already sees",
+      "had already seen"
+    ],
+    "correctAnswer": "has already seen"
+  },
+  {
+    "id": 84,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "A disagreement between people.",
+    "options": [
+      "Conversation",
+      "Discussion",
+      "Argument",
+      "Debate"
+    ],
+    "correctAnswer": "Argument"
+  },
+  {
+    "id": 85,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "This is the woman _____ helped me yesterday.",
+    "options": [
+      "which",
+      "where",
+      "who",
+      "whose"
+    ],
+    "correctAnswer": "who"
+  },
+  {
+    "id": 86,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'remember'?",
+    "options": [
+      "Know",
+      "Think",
+      "Forget",
+      "Learn"
+    ],
+    "correctAnswer": "Forget"
+  },
+  {
+    "id": 87,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "We _____ (fly) to Spain next month. We bought the tickets.",
+    "options": [
+      "fly",
+      "will fly",
+      "are flying",
+      "flew"
+    ],
+    "correctAnswer": "are flying"
+  },
+  {
+    "id": 88,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "To feel 'proud' of something means you feel _____ about it.",
+    "options": [
+      "ashamed",
+      "satisfied",
+      "disappointed",
+      "angry"
+    ],
+    "correctAnswer": "satisfied"
+  },
+  {
+    "id": 89,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "By the time we arrived, the train _____ (leave).",
+    "options": [
+      "left",
+      "was leaving",
+      "had left",
+      "has left"
+    ],
+    "correctAnswer": "had left"
+  },
+  {
+    "id": 90,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "A small, useful machine or piece of equipment.",
+    "options": [
+      "Tool",
+      "Appliance",
+      "Gadget",
+      "Device"
+    ],
+    "correctAnswer": "Gadget"
+  },
+  {
+    "id": 91,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "You _____ bring food, but you can if you want.",
+    "options": [
+      "must",
+      "mustn't",
+      "have to",
+      "don't have to"
+    ],
+    "correctAnswer": "don't have to"
+  },
+  {
+    "id": 92,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "A person who studies science.",
+    "options": [
+      "Artist",
+      "Musician",
+      "Scientist",
+      "Writer"
+    ],
+    "correctAnswer": "Scientist"
+  },
+  {
+    "id": 93,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "He asked her _____ she wanted coffee or tea.",
+    "options": [
+      "that",
+      "if/whether",
+      "what",
+      "which"
+    ],
+    "correctAnswer": "if/whether"
+  },
+  {
+    "id": 94,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'noisy'?",
+    "options": [
+      "Loud",
+      "Silent",
+      "Quiet",
+      "Calm"
+    ],
+    "correctAnswer": "Quiet"
+  },
+  {
+    "id": 95,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "How long _____ (it / rain)?",
+    "options": [
+      "is it raining",
+      "has it been raining",
+      "does it rain",
+      "did it rain"
+    ],
+    "correctAnswer": "has it been raining"
+  },
+  {
+    "id": 96,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "To 'apologize' means to say _____",
+    "options": [
+      "Thank you",
+      "Excuse me",
+      "Sorry",
+      "Goodbye"
+    ],
+    "correctAnswer": "Sorry"
+  },
+  {
+    "id": 97,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "That's the man _____ dog bit me!",
+    "options": [
+      "who",
+      "which",
+      "whose",
+      "that"
+    ],
+    "correctAnswer": "whose"
+  },
+  {
+    "id": 98,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "A talk between two or more people.",
+    "options": [
+      "Speech",
+      "Lecture",
+      "Conversation",
+      "Monologue"
+    ],
+    "correctAnswer": "Conversation"
+  },
+  {
+    "id": 99,
+    "level": "B1",
+    "topic": "Grammar",
+    "question": "If they _____ (invite) me, I _____ (go) to the party.",
+    "options": [
+      "invite / will go",
+      "invited / would go",
+      "invited / went",
+      "invite / go"
+    ],
+    "correctAnswer": "invited / would go"
+  },
+  {
+    "id": 100,
+    "level": "B1",
+    "topic": "Vocabulary",
+    "question": "What is the adjective form of 'danger'?",
+    "options": [
+      "dangerously",
+      "dangerous",
+      "endanger",
+      "dangered"
+    ],
+    "correctAnswer": "dangerous"
+  }
+]

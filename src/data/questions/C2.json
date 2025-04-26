@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "_____ had we arrived at the summit than the storm broke.",
+    "options": [
+      "Barely",
+      "Scarcely",
+      "No sooner",
+      "Hardly"
+    ],
+    "correctAnswer": "No sooner"
+  },
+  {
+    "id": 2,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "His _____ refusal to compromise stalled the negotiations indefinitely.",
+    "options": [
+      "adamant",
+      "amenable",
+      "pliable",
+      "docile"
+    ],
+    "correctAnswer": "adamant"
+  },
+  {
+    "id": 3,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "The committee insists that the report _____ submitted by the deadline.",
+    "options": [
+      "is",
+      "was",
+      "be",
+      "will be"
+    ],
+    "correctAnswer": "be"
+  },
+  {
+    "id": 4,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "The novel's _____ prose beautifully captured the atmosphere of the era.",
+    "options": [
+      "turgid",
+      "limpid",
+      "bombastic",
+      "verbose"
+    ],
+    "correctAnswer": "limpid"
+  },
+  {
+    "id": 5,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "_____ it not for her timely intervention, the project would have collapsed.",
+    "options": [
+      "Were",
+      "Should",
+      "Had",
+      "If"
+    ],
+    "correctAnswer": "Had"
+  },
+  {
+    "id": 6,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "The evidence presented was rather _____, failing to convince the jury.",
+    "options": [
+      "compelling",
+      "conclusive",
+      "tenuous",
+      "robust"
+    ],
+    "correctAnswer": "tenuous"
+  },
+  {
+    "id": 7,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "Never before _____ such blatant disregard for the rules.",
+    "options": [
+      "I witnessed",
+      "I have witnessed",
+      "did I witness",
+      "have I witnessed"
+    ],
+    "correctAnswer": "have I witnessed"
+  },
+  {
+    "id": 8,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "To 'abjure' one's beliefs means to ____ them.",
+    "options": [
+      "defend",
+      "renounce",
+      "propagate",
+      "modify"
+    ],
+    "correctAnswer": "renounce"
+  },
+  {
+    "id": 9,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "He is reputed _____ one of the wealthiest individuals in the country.",
+    "options": [
+      "being",
+      "to be",
+      "having been",
+      "to have been"
+    ],
+    "correctAnswer": "to be"
+  },
+  {
+    "id": 10,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "A state of inactivity or dormancy.",
+    "options": [
+      "Lethargy",
+      "Torpor",
+      "Vibrancy",
+      "Zeal"
+    ],
+    "correctAnswer": "Torpor"
+  },
+  {
+    "id": 11,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "_____ difficulties may arise, we are determined to succeed.",
+    "options": [
+      "Whatever",
+      "However",
+      "Although",
+      "Despite"
+    ],
+    "correctAnswer": "Whatever"
+  },
+  {
+    "id": 12,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "His _____ comments at the dinner party offended several guests.",
+    "options": [
+      "judicious",
+      "tactful",
+      "acerbic",
+      "conciliatory"
+    ],
+    "correctAnswer": "acerbic"
+  },
+  {
+    "id": 13,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "The more intricate the problem, _____ the solution.",
+    "options": [
+      "more elusive",
+      "the more elusive",
+      "elusive",
+      "most elusive"
+    ],
+    "correctAnswer": "the more elusive"
+  },
+  {
+    "id": 14,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'nebulous'?",
+    "options": [
+      "Vague",
+      "Clear/Precise",
+      "Cloudy",
+      "Huge"
+    ],
+    "correctAnswer": "Clear/Precise"
+  },
+  {
+    "id": 15,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "Try _____ he might, he could not persuade her to change her mind.",
+    "options": [
+      "if",
+      "when",
+      "how",
+      "as"
+    ],
+    "correctAnswer": "as"
+  },
+  {
+    "id": 16,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "To 'promulgate' a law means to ____ it.",
+    "options": [
+      "repeal",
+      "criticize",
+      "make known officially",
+      "draft"
+    ],
+    "correctAnswer": "make known officially"
+  },
+  {
+    "id": 17,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "It was her determination _____ saw her through the difficult times.",
+    "options": [
+      "that",
+      "which",
+      "it",
+      "what"
+    ],
+    "correctAnswer": "that"
+  },
+  {
+    "id": 18,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "A 'sycophant' tries to win favour by ____ others.",
+    "options": [
+      "criticizing",
+      "ignoring",
+      "flattering",
+      "challenging"
+    ],
+    "correctAnswer": "flattering"
+  },
+  {
+    "id": 19,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "All evidence _____ the contrary, he maintained his innocence.",
+    "options": [
+      "against",
+      "despite",
+      "to",
+      "with"
+    ],
+    "correctAnswer": "to"
+  },
+  {
+    "id": 20,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "Someone described as 'perspicacious' shows keen _____",
+    "options": [
+      "strength",
+      "enthusiasm",
+      "insight and understanding",
+      "generosity"
+    ],
+    "correctAnswer": "insight and understanding"
+  },
+  {
+    "id": 21,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "The project requires _____ considerable investment.",
+    "options": [
+      "a",
+      "an",
+      "-",
+      "the"
+    ],
+    "correctAnswer": "-"
+  },
+  {
+    "id": 22,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'approbation'?",
+    "options": [
+      "Praise",
+      "Approval",
+      "Disapproval/Condemnation",
+      "Admiration"
+    ],
+    "correctAnswer": "Disapproval/Condemnation"
+  },
+  {
+    "id": 23,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "So complex _____ the issue that it defied easy explanation.",
+    "options": [
+      "is",
+      "was",
+      "being",
+      "to be"
+    ],
+    "correctAnswer": "was"
+  },
+  {
+    "id": 24,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "To 'vilify' someone means to _____",
+    "options": [
+      "praise highly",
+      "speak or write about abusively",
+      "ignore completely",
+      "support unconditionally"
+    ],
+    "correctAnswer": "speak or write about abusively"
+  },
+  {
+    "id": 25,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "I'd just as soon _____ indoors today, if you don't mind.",
+    "options": [
+      "stay",
+      "staying",
+      "to stay",
+      "stayed"
+    ],
+    "correctAnswer": "stay"
+  },
+  {
+    "id": 26,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "A speech characterized by 'verbiage' is _____",
+    "options": [
+      "concise",
+      "clear",
+      "excessively lengthy or wordy",
+      "persuasive"
+    ],
+    "correctAnswer": "excessively lengthy or wordy"
+  },
+  {
+    "id": 27,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "Come what _____, we will stand by our principles.",
+    "options": [
+      "can",
+      "will",
+      "may",
+      "should"
+    ],
+    "correctAnswer": "may"
+  },
+  {
+    "id": 28,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "Which word describes something 'fleeting'?",
+    "options": [
+      "Permanent",
+      "Brief/Transient",
+      "Constant",
+      "Significant"
+    ],
+    "correctAnswer": "Brief/Transient"
+  },
+  {
+    "id": 29,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "The manager, accompanied by her team, _____ presenting the proposal.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "were"
+    ],
+    "correctAnswer": "is"
+  },
+  {
+    "id": 30,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'sagacious'?",
+    "options": [
+      "Wise",
+      "Foolish/Unwise",
+      "Clever",
+      "Knowledgeable"
+    ],
+    "correctAnswer": "Foolish/Unwise"
+  },
+  {
+    "id": 31,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "_____ she to resign, the company would face a major crisis.",
+    "options": [
+      "If",
+      "Should",
+      "Were",
+      "Had"
+    ],
+    "correctAnswer": "Were"
+  },
+  {
+    "id": 32,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "To 'ruminate' on a subject means to ____ it.",
+    "options": [
+      "decide quickly",
+      "ignore completely",
+      "think deeply about",
+      "discuss briefly"
+    ],
+    "correctAnswer": "think deeply about"
+  },
+  {
+    "id": 33,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "It goes without _____ that punctuality is expected.",
+    "options": [
+      "saying",
+      "to say",
+      "say",
+      "being said"
+    ],
+    "correctAnswer": "saying"
+  },
+  {
+    "id": 34,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "Someone who is 'phlegmatic' is typically _____",
+    "options": [
+      "excitable",
+      "emotional",
+      "calm and unemotional",
+      "energetic"
+    ],
+    "correctAnswer": "calm and unemotional"
+  },
+  {
+    "id": 35,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "_____ I dislike the proposal, I must admit it has some merits.",
+    "options": [
+      "As",
+      "Because",
+      "Much as",
+      "Since"
+    ],
+    "correctAnswer": "Much as"
+  },
+  {
+    "id": 36,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "A 'pithy' remark is _____",
+    "options": [
+      "long and rambling",
+      "concise and forcefully expressive",
+      "vague and unclear",
+      "offensive and rude"
+    ],
+    "correctAnswer": "concise and forcefully expressive"
+  },
+  {
+    "id": 37,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "The success of the event hinges _____ the weather.",
+    "options": [
+      "at",
+      "with",
+      "on",
+      "by"
+    ],
+    "correctAnswer": "on"
+  },
+  {
+    "id": 38,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'prosaic'?",
+    "options": [
+      "Dull/Unimaginative",
+      "Interesting/Imaginative",
+      "Simple",
+      "Complicated"
+    ],
+    "correctAnswer": "Interesting/Imaginative"
+  },
+  {
+    "id": 39,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "She prides herself _____ her ability to multitask.",
+    "options": [
+      "in",
+      "on",
+      "with",
+      "at"
+    ],
+    "correctAnswer": "on"
+  },
+  {
+    "id": 40,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "To 'obfuscate' an issue is to make it _____",
+    "options": [
+      "clearer",
+      "simpler",
+      "obscure or unintelligible",
+      "more important"
+    ],
+    "correctAnswer": "obscure or unintelligible"
+  },
+  {
+    "id": 41,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "What _____ if the funding were suddenly withdrawn?",
+    "options": [
+      "happens",
+      "would happen",
+      "will happen",
+      "happened"
+    ],
+    "correctAnswer": "would happen"
+  },
+  {
+    "id": 42,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "A 'quixotic' plan is typically _____",
+    "options": [
+      "practical",
+      "profitable",
+      "extremely idealistic and unrealistic",
+      "carefully considered"
+    ],
+    "correctAnswer": "extremely idealistic and unrealistic"
+  },
+  {
+    "id": 43,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "The criteria _____ used to evaluate the applications were unclear.",
+    "options": [
+      "that was",
+      "which was",
+      "that were",
+      "who were"
+    ],
+    "correctAnswer": "that were"
+  },
+  {
+    "id": 44,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "Someone who is 'laconic' uses _____",
+    "options": [
+      "many words",
+      "complex sentences",
+      "very few words",
+      "emotional language"
+    ],
+    "correctAnswer": "very few words"
+  },
+  {
+    "id": 45,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "He is thought _____ a significant contribution to the field.",
+    "options": [
+      "making",
+      "to make",
+      "having made",
+      "to have made"
+    ],
+    "correctAnswer": "to have made"
+  },
+  {
+    "id": 46,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'gainsay'?",
+    "options": [
+      "Deny/Contradict",
+      "Confirm/Agree",
+      "Ignore",
+      "Question"
+    ],
+    "correctAnswer": "Confirm/Agree"
+  },
+  {
+    "id": 47,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "Be that _____ it may, we must proceed with caution.",
+    "options": [
+      "if",
+      "as",
+      "how",
+      "when"
+    ],
+    "correctAnswer": "as"
+  },
+  {
+    "id": 48,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "To 'inure' someone to hardship means to ____ them.",
+    "options": [
+      "protect",
+      "expose",
+      "accustom",
+      "subject"
+    ],
+    "correctAnswer": "accustom"
+  },
+  {
+    "id": 49,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "_____ from his expression, he was clearly disappointed.",
+    "options": [
+      "Judging",
+      "To judge",
+      "Judged",
+      "Having judged"
+    ],
+    "correctAnswer": "Judging"
+  },
+  {
+    "id": 50,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "A 'truculent' person is eager or quick to _____",
+    "options": [
+      "agree",
+      "help",
+      "argue or fight",
+      "compromise"
+    ],
+    "correctAnswer": "argue or fight"
+  },
+  {
+    "id": 51,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "The information, _____ accurate, needs to be presented more clearly.",
+    "options": [
+      "while",
+      "despite",
+      "unless",
+      "if"
+    ],
+    "correctAnswer": "while"
+  },
+  {
+    "id": 52,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'ephemeral'?",
+    "options": [
+      "Brief",
+      "Permanent/Lasting",
+      "Transient",
+      "Momentary"
+    ],
+    "correctAnswer": "Permanent/Lasting"
+  },
+  {
+    "id": 53,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "Far _____ it from me to criticize, but I think there's a better way.",
+    "options": [
+      "is",
+      "be",
+      "was",
+      "were"
+    ],
+    "correctAnswer": "be"
+  },
+  {
+    "id": 54,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "To 'espouse' a cause means to ____ it.",
+    "options": [
+      "abandon",
+      "criticize",
+      "adopt or support",
+      "ignore"
+    ],
+    "correctAnswer": "adopt or support"
+  },
+  {
+    "id": 55,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "I suggested _____ a short break.",
+    "options": [
+      "taking",
+      "to take",
+      "take",
+      "that we taking"
+    ],
+    "correctAnswer": "taking"
+  },
+  {
+    "id": 56,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "A 'salubrious' climate is _____",
+    "options": [
+      "unhealthy",
+      "harsh",
+      "health-giving",
+      "polluted"
+    ],
+    "correctAnswer": "health-giving"
+  },
+  {
+    "id": 57,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "The extent _____ which this is feasible remains debatable.",
+    "options": [
+      "of",
+      "at",
+      "to",
+      "in"
+    ],
+    "correctAnswer": "to"
+  },
+  {
+    "id": 58,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'fecund'?",
+    "options": [
+      "Fertile",
+      "Barren/Infertile",
+      "Productive",
+      "Abundant"
+    ],
+    "correctAnswer": "Barren/Infertile"
+  },
+  {
+    "id": 59,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "She appears _____ recovered fully from her illness.",
+    "options": [
+      "recovering",
+      "to recover",
+      "having recovered",
+      "to have recovered"
+    ],
+    "correctAnswer": "to have recovered"
+  },
+  {
+    "id": 60,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "To 'malinger' is to pretend to be _____",
+    "options": [
+      "knowledgeable",
+      "ill to escape duty",
+      "wealthy",
+      "busy"
+    ],
+    "correctAnswer": "ill to escape duty"
+  },
+  {
+    "id": 61,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "Small wonder _____ he looks so tired; he's been working non-stop.",
+    "options": [
+      "that",
+      "why",
+      "if",
+      "-"
+    ],
+    "correctAnswer": "-"
+  },
+  {
+    "id": 62,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "A 'diatribe' is a forceful and bitter _____",
+    "options": [
+      "praise",
+      "agreement",
+      "verbal attack",
+      "compliment"
+    ],
+    "correctAnswer": "verbal attack"
+  },
+  {
+    "id": 63,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "It's vital that action _____ taken immediately.",
+    "options": [
+      "is",
+      "be",
+      "was",
+      "will be"
+    ],
+    "correctAnswer": "be"
+  },
+  {
+    "id": 64,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'malleable'?",
+    "options": [
+      "Flexible",
+      "Rigid/Intractable",
+      "Soft",
+      "Adaptable"
+    ],
+    "correctAnswer": "Rigid/Intractable"
+  },
+  {
+    "id": 65,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "_____ with his explanation, she asked for more details.",
+    "options": [
+      "Satisfied not",
+      "Not satisfied",
+      "Unsatisfied",
+      "Not having satisfied"
+    ],
+    "correctAnswer": "Not satisfied"
+  },
+  {
+    "id": 66,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "To 'exculpate' someone is to show they are not _____",
+    "options": [
+      "intelligent",
+      "present",
+      "guilty",
+      "responsible"
+    ],
+    "correctAnswer": "guilty"
+  },
+  {
+    "id": 67,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "He objected to _____ addressed by his first name.",
+    "options": [
+      "be",
+      "being",
+      "have been",
+      "having been"
+    ],
+    "correctAnswer": "being"
+  },
+  {
+    "id": 68,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "A 'proclivity' towards something indicates a _____",
+    "options": [
+      "dislike",
+      "tendency or inclination",
+      "skill",
+      "fear"
+    ],
+    "correctAnswer": "tendency or inclination"
+  },
+  {
+    "id": 69,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "The regulations stipulate that all visitors _____ sign in.",
+    "options": [
+      "must",
+      "should",
+      "-",
+      "to"
+    ],
+    "correctAnswer": "-"
+  },
+  {
+    "id": 70,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'alacrity'?",
+    "options": [
+      "Eagerness/Speed",
+      "Reluctance/Slowness",
+      "Skill",
+      "Enthusiasm"
+    ],
+    "correctAnswer": "Reluctance/Slowness"
+  },
+  {
+    "id": 71,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "I, _____ other members of the team, believe this is the best approach.",
+    "options": [
+      "as well",
+      "also",
+      "like",
+      "along with"
+    ],
+    "correctAnswer": "along with"
+  },
+  {
+    "id": 72,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "To 'impugn' someone's integrity means to ____ it.",
+    "options": [
+      "praise",
+      "question or challenge",
+      "defend",
+      "ignore"
+    ],
+    "correctAnswer": "question or challenge"
+  },
+  {
+    "id": 73,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "The onus is _____ the prosecution to prove guilt.",
+    "options": [
+      "with",
+      "at",
+      "on",
+      "for"
+    ],
+    "correctAnswer": "on"
+  },
+  {
+    "id": 74,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "A 'peripatetic' lifestyle involves _____",
+    "options": [
+      "staying in one place",
+      "working hard",
+      "travelling from place to place",
+      "living simply"
+    ],
+    "correctAnswer": "travelling from place to place"
+  },
+  {
+    "id": 75,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "She was observed _____ the building shortly after midnight.",
+    "options": [
+      "leaving",
+      "to leave",
+      "leave",
+      "having left"
+    ],
+    "correctAnswer": "leaving"
+  },
+  {
+    "id": 76,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'sanctimonious'?",
+    "options": [
+      "Pious",
+      "Sincere/Humble",
+      "Hypocritical",
+      "Righteous"
+    ],
+    "correctAnswer": "Sincere/Humble"
+  },
+  {
+    "id": 77,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "Such was the outcry _____ the decision was swiftly reversed.",
+    "options": [
+      "so",
+      "as",
+      "that",
+      "which"
+    ],
+    "correctAnswer": "that"
+  },
+  {
+    "id": 78,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "To 'enervate' means to cause someone to feel _____",
+    "options": [
+      "energized",
+      "drained of energy or vitality",
+      "angry",
+      "inspired"
+    ],
+    "correctAnswer": "drained of energy or vitality"
+  },
+  {
+    "id": 79,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "He is amenable _____ considering alternative proposals.",
+    "options": [
+      "of",
+      "with",
+      "for",
+      "to"
+    ],
+    "correctAnswer": "to"
+  },
+  {
+    "id": 80,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "A 'garrulous' person is excessively _____",
+    "options": [
+      "quiet",
+      "talkative",
+      "sad",
+      "angry"
+    ],
+    "correctAnswer": "talkative"
+  },
+  {
+    "id": 81,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "The key _____ solving this puzzle lies in pattern recognition.",
+    "options": [
+      "of",
+      "for",
+      "to",
+      "in"
+    ],
+    "correctAnswer": "to"
+  },
+  {
+    "id": 82,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'ignominious'?",
+    "options": [
+      "Shameful",
+      "Honourable/Glorious",
+      "Public",
+      "Secret"
+    ],
+    "correctAnswer": "Honourable/Glorious"
+  },
+  {
+    "id": 83,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "I would sooner _____ than apologize for something I didn't do.",
+    "options": [
+      "resign",
+      "resigning",
+      "to resign",
+      "resigned"
+    ],
+    "correctAnswer": "resign"
+  },
+  {
+    "id": 84,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "To 'recant' a statement means to say that one no longer _____",
+    "options": [
+      "understands it",
+      "remembers it",
+      "holds the belief or opinion",
+      "agrees with it slightly"
+    ],
+    "correctAnswer": "holds the belief or opinion"
+  },
+  {
+    "id": 85,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "The phenomena _____ studied using advanced imaging techniques.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has been"
+    ],
+    "correctAnswer": "are"
+  },
+  {
+    "id": 86,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "A 'trenchant' analysis is _____",
+    "options": [
+      "vague",
+      "superficial",
+      "incisive and vigorous",
+      "biased"
+    ],
+    "correctAnswer": "incisive and vigorous"
+  },
+  {
+    "id": 87,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "He is intent _____ pursuing a career in astrophysics.",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "with"
+    ],
+    "correctAnswer": "on"
+  },
+  {
+    "id": 88,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'obdurate'?",
+    "options": [
+      "Stubborn",
+      "Compliant/Yielding",
+      "Hard",
+      "Strong"
+    ],
+    "correctAnswer": "Compliant/Yielding"
+  },
+  {
+    "id": 89,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "The likelihood _____ rain tomorrow is high.",
+    "options": [
+      "for",
+      "of",
+      "to",
+      "with"
+    ],
+    "correctAnswer": "of"
+  },
+  {
+    "id": 90,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "To 'abate' means to become _____",
+    "options": [
+      "more intense",
+      "less intense or widespread",
+      "more complex",
+      "clearer"
+    ],
+    "correctAnswer": "less intense or widespread"
+  },
+  {
+    "id": 91,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "_____ anyone call, please take a message.",
+    "options": [
+      "If",
+      "Were",
+      "Had",
+      "Should"
+    ],
+    "correctAnswer": "Should"
+  },
+  {
+    "id": 92,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "A 'palliative' treatment aims to ____ symptoms, not cure.",
+    "options": [
+      "worsen",
+      "relieve",
+      "ignore",
+      "diagnose"
+    ],
+    "correctAnswer": "relieve"
+  },
+  {
+    "id": 93,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "We need to weigh _____ the potential benefits against the risks.",
+    "options": [
+      "out",
+      "up",
+      "in",
+      "on"
+    ],
+    "correctAnswer": "up"
+  },
+  {
+    "id": 94,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'diffident'?",
+    "options": [
+      "Shy",
+      "Confident",
+      "Modest",
+      "Hesitant"
+    ],
+    "correctAnswer": "Confident"
+  },
+  {
+    "id": 95,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "She couldn't help _____ impressed by his eloquence.",
+    "options": [
+      "being",
+      "to be",
+      "be",
+      "but be"
+    ],
+    "correctAnswer": "but be"
+  },
+  {
+    "id": 96,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "To 'aver' something is to state or assert it _____",
+    "options": [
+      "doubtfully",
+      "quietly",
+      "strongly and confidently",
+      "secretly"
+    ],
+    "correctAnswer": "strongly and confidently"
+  },
+  {
+    "id": 97,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "The means _____ which this was achieved are questionable.",
+    "options": [
+      "of",
+      "for",
+      "by",
+      "in"
+    ],
+    "correctAnswer": "by"
+  },
+  {
+    "id": 98,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "A 'banal' remark is _____",
+    "options": [
+      "original",
+      "profound",
+      "so lacking in originality as to be obvious and boring",
+      "witty"
+    ],
+    "correctAnswer": "so lacking in originality as to be obvious and boring"
+  },
+  {
+    "id": 99,
+    "level": "C2",
+    "topic": "Grammar",
+    "question": "He attributed his success _____ hard work and perseverance.",
+    "options": [
+      "for",
+      "with",
+      "to",
+      "on"
+    ],
+    "correctAnswer": "to"
+  },
+  {
+    "id": 100,
+    "level": "C2",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'deleterious'?",
+    "options": [
+      "Harmful",
+      "Beneficial",
+      "Neutral",
+      "Unknown"
+    ],
+    "correctAnswer": "Beneficial"
+  }
+]

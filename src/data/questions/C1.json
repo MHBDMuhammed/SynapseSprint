@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "_____ had the concert started than the power went out.",
+    "options": [
+      "Scarcely",
+      "No sooner",
+      "Barely",
+      "Hardly"
+    ],
+    "correctAnswer": "No sooner"
+  },
+  {
+    "id": 2,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Which word means 'to officially cancel something'?",
+    "options": [
+      "Postpone",
+      "Abrogate",
+      "Suspend",
+      "Defer"
+    ],
+    "correctAnswer": "Abrogate"
+  },
+  {
+    "id": 3,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "_____ we to offer you the job, when would you be able to start?",
+    "options": [
+      "If",
+      "Provided",
+      "Were",
+      "Should"
+    ],
+    "correctAnswer": "Were"
+  },
+  {
+    "id": 4,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Her arguments were so _____ that the audience was easily convinced.",
+    "options": [
+      "tenuous",
+      "cogent",
+      "fallacious",
+      "dubious"
+    ],
+    "correctAnswer": "cogent"
+  },
+  {
+    "id": 5,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "It is imperative that all employees _____ the new safety regulations.",
+    "options": [
+      "follow",
+      "follows",
+      "are following",
+      "followed"
+    ],
+    "correctAnswer": "follow"
+  },
+  {
+    "id": 6,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "The politician gave _____ responses, avoiding direct answers.",
+    "options": [
+      "equivocal",
+      "explicit",
+      "unequivocal",
+      "candid"
+    ],
+    "correctAnswer": "equivocal"
+  },
+  {
+    "id": 7,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "Under no circumstances _____ passengers permitted to smoke on the aircraft.",
+    "options": [
+      "are",
+      "should",
+      "can",
+      "will"
+    ],
+    "correctAnswer": "are"
+  },
+  {
+    "id": 8,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "To 'mitigate' a problem means to make it _____",
+    "options": [
+      "worse",
+      "more complex",
+      "less severe",
+      "disappear completely"
+    ],
+    "correctAnswer": "less severe"
+  },
+  {
+    "id": 9,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "_____ completed the report, she submitted it to her manager.",
+    "options": [
+      "Completing",
+      "Having completed",
+      "Completed",
+      "To complete"
+    ],
+    "correctAnswer": "Having completed"
+  },
+  {
+    "id": 10,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "A 'plethora' refers to a _____",
+    "options": [
+      "shortage",
+      "lack",
+      "small amount",
+      "large excess"
+    ],
+    "correctAnswer": "large excess"
+  },
+  {
+    "id": 11,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "He regrets _____ so harshly to his colleague.",
+    "options": [
+      "speaking",
+      "to speak",
+      "having spoken",
+      "to have spoken"
+    ],
+    "correctAnswer": "having spoken"
+  },
+  {
+    "id": 12,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Someone described as 'fastidious' pays great attention to _____",
+    "options": [
+      "speed",
+      "cost",
+      "detail and accuracy",
+      "popularity"
+    ],
+    "correctAnswer": "detail and accuracy"
+  },
+  {
+    "id": 13,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "What _____ is a more sustainable approach to energy consumption.",
+    "options": [
+      "is needed",
+      "needs",
+      "needed",
+      "we need"
+    ],
+    "correctAnswer": "is needed"
+  },
+  {
+    "id": 14,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'intrinsic'?",
+    "options": [
+      "Essential",
+      "Inherent",
+      "Extrinsic",
+      "Fundamental"
+    ],
+    "correctAnswer": "Extrinsic"
+  },
+  {
+    "id": 15,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "The company is alleged _____ millions in taxes.",
+    "options": [
+      "to evade",
+      "evading",
+      "to have evaded",
+      "having evaded"
+    ],
+    "correctAnswer": "to have evaded"
+  },
+  {
+    "id": 16,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "To 'corroborate' a story means to ____ it.",
+    "options": [
+      "contradict",
+      "invent",
+      "confirm or support",
+      "analyze"
+    ],
+    "correctAnswer": "confirm or support"
+  },
+  {
+    "id": 17,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "_____ I known the risks involved, I would never have agreed.",
+    "options": [
+      "If",
+      "Should",
+      "Were",
+      "Had"
+    ],
+    "correctAnswer": "Had"
+  },
+  {
+    "id": 18,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "A 'ubiquitous' phenomenon is one that seems to be _____",
+    "options": [
+      "rare",
+      "everywhere",
+      "decreasing",
+      "complex"
+    ],
+    "correctAnswer": "everywhere"
+  },
+  {
+    "id": 19,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "It was the lack of funding _____ led to the project's failure.",
+    "options": [
+      "that",
+      "which",
+      "what",
+      "it"
+    ],
+    "correctAnswer": "that"
+  },
+  {
+    "id": 20,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Someone who is 'reticent' is _____",
+    "options": [
+      "talkative",
+      "unwilling to speak freely",
+      "outgoing",
+      "enthusiastic"
+    ],
+    "correctAnswer": "unwilling to speak freely"
+  },
+  {
+    "id": 21,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "She is considering _____ abroad for her master's degree.",
+    "options": [
+      "to study",
+      "studying",
+      "study",
+      "to studying"
+    ],
+    "correctAnswer": "studying"
+  },
+  {
+    "id": 22,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "The opposite of 'benign' (e.g., a tumor) is _____",
+    "options": [
+      "harmful",
+      "harmless",
+      "malignant",
+      "kind"
+    ],
+    "correctAnswer": "malignant"
+  },
+  {
+    "id": 23,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "Not until the final chapter _____ the mystery resolved.",
+    "options": [
+      "was",
+      "did",
+      "had",
+      "has"
+    ],
+    "correctAnswer": "was"
+  },
+  {
+    "id": 24,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "To 'exacerbate' a situation means to make it _____",
+    "options": [
+      "better",
+      "worse",
+      "stable",
+      "clearer"
+    ],
+    "correctAnswer": "worse"
+  },
+  {
+    "id": 25,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "He must _____ the instructions; the model is assembled incorrectly.",
+    "options": [
+      "misunderstand",
+      "have misunderstood",
+      "be misunderstanding",
+      "misunderstood"
+    ],
+    "correctAnswer": "have misunderstood"
+  },
+  {
+    "id": 26,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "A 'perfunctory' action is done _____",
+    "options": [
+      "with enthusiasm",
+      "carefully",
+      "quickly and without care",
+      "slowly"
+    ],
+    "correctAnswer": "quickly and without care"
+  },
+  {
+    "id": 27,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "The committee recommended that the proposal _____ immediately.",
+    "options": [
+      "accept",
+      "accepted",
+      "be accepted",
+      "was accepted"
+    ],
+    "correctAnswer": "be accepted"
+  },
+  {
+    "id": 28,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Which word means 'lasting for only a short time'?",
+    "options": [
+      "Permanent",
+      "Eternal",
+      "Ephemeral",
+      "Enduring"
+    ],
+    "correctAnswer": "Ephemeral"
+  },
+  {
+    "id": 29,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "_____ tired she was, she managed to finish the race.",
+    "options": [
+      "Although",
+      "Despite",
+      "However",
+      "No matter how"
+    ],
+    "correctAnswer": "No matter how"
+  },
+  {
+    "id": 30,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'mundane'?",
+    "options": [
+      "Ordinary",
+      "Boring",
+      "Routine",
+      "Exceptional/Exciting"
+    ],
+    "correctAnswer": "Exceptional/Exciting"
+  },
+  {
+    "id": 31,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "The building, _____ construction began last year, will be completed soon.",
+    "options": [
+      "which",
+      "that",
+      "whose",
+      "its"
+    ],
+    "correctAnswer": "whose"
+  },
+  {
+    "id": 32,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "To 'bolster' support means to ____ it.",
+    "options": [
+      "decrease",
+      "question",
+      "strengthen",
+      "ignore"
+    ],
+    "correctAnswer": "strengthen"
+  },
+  {
+    "id": 33,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "Try as I _____, I couldn't open the jar.",
+    "options": [
+      "can",
+      "could",
+      "may",
+      "might"
+    ],
+    "correctAnswer": "might"
+  },
+  {
+    "id": 34,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Someone described as 'gregarious' is _____",
+    "options": [
+      "shy",
+      "sociable",
+      "serious",
+      "studious"
+    ],
+    "correctAnswer": "sociable"
+  },
+  {
+    "id": 35,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "It is widely acknowledged _____ climate change is a serious threat.",
+    "options": [
+      "that",
+      "if",
+      "what",
+      "to"
+    ],
+    "correctAnswer": "that"
+  },
+  {
+    "id": 36,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "A 'myriad' of options means _____",
+    "options": [
+      "very few",
+      "a limited number",
+      "a confusing set",
+      "a very large number"
+    ],
+    "correctAnswer": "a very large number"
+  },
+  {
+    "id": 37,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "_____ you happen to see John, could you give him this message?",
+    "options": [
+      "If",
+      "Should",
+      "Were",
+      "Had"
+    ],
+    "correctAnswer": "Should"
+  },
+  {
+    "id": 38,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'ostentatious'?",
+    "options": [
+      "Showy",
+      "Modest/Understated",
+      "Expensive",
+      "Generous"
+    ],
+    "correctAnswer": "Modest/Understated"
+  },
+  {
+    "id": 39,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "She objected _____ treated like a child.",
+    "options": [
+      "to be",
+      "to being",
+      "being",
+      "be"
+    ],
+    "correctAnswer": "to being"
+  },
+  {
+    "id": 40,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "To 'placate' someone means to make them feel _____",
+    "options": [
+      "more angry",
+      "less angry or hostile",
+      "more confused",
+      "more energetic"
+    ],
+    "correctAnswer": "less angry or hostile"
+  },
+  {
+    "id": 41,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "Rarely _____ such a spectacular sunset.",
+    "options": [
+      "I see",
+      "I have seen",
+      "do I see",
+      "have I seen"
+    ],
+    "correctAnswer": "have I seen"
+  },
+  {
+    "id": 42,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "A 'cacophony' refers to a _____",
+    "options": [
+      "pleasant melody",
+      "loud argument",
+      "harsh mixture of sounds",
+      "quiet atmosphere"
+    ],
+    "correctAnswer": "harsh mixture of sounds"
+  },
+  {
+    "id": 43,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "_____ the rain, the match went ahead as planned.",
+    "options": [
+      "Although",
+      "Despite",
+      "Even though",
+      "In spite"
+    ],
+    "correctAnswer": "Despite"
+  },
+  {
+    "id": 44,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Someone who is 'pragmatic' is concerned with ____ results.",
+    "options": [
+      "theoretical",
+      "idealistic",
+      "practical",
+      "emotional"
+    ],
+    "correctAnswer": "practical"
+  },
+  {
+    "id": 45,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "I'd sooner you _____ mention this to anyone.",
+    "options": [
+      "don't",
+      "didn't",
+      "won't",
+      "wouldn't"
+    ],
+    "correctAnswer": "didn't"
+  },
+  {
+    "id": 46,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'taciturn'?",
+    "options": [
+      "Quiet",
+      "Reserved",
+      "Talkative/Garrulous",
+      "Shy"
+    ],
+    "correctAnswer": "Talkative/Garrulous"
+  },
+  {
+    "id": 47,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "The data _____ collected over a period of six months.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "has been"
+    ],
+    "correctAnswer": "were"
+  },
+  {
+    "id": 48,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "To 'proliferate' means to ____ rapidly.",
+    "options": [
+      "decrease",
+      "disappear",
+      "change",
+      "increase or spread"
+    ],
+    "correctAnswer": "increase or spread"
+  },
+  {
+    "id": 49,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "He remembers _____ the door, but he can't find the keys.",
+    "options": [
+      "to lock",
+      "locking",
+      "lock",
+      "to locking"
+    ],
+    "correctAnswer": "locking"
+  },
+  {
+    "id": 50,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "A 'panacea' is believed to be a cure for _____",
+    "options": [
+      "one specific illness",
+      "minor problems",
+      "all diseases or problems",
+      "financial issues"
+    ],
+    "correctAnswer": "all diseases or problems"
+  },
+  {
+    "id": 51,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "Little _____ that he was being watched.",
+    "options": [
+      "he knew",
+      "did he know",
+      "he had known",
+      "had he known"
+    ],
+    "correctAnswer": "did he know"
+  },
+  {
+    "id": 52,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Someone who is 'assiduous' is _____",
+    "options": [
+      "lazy",
+      "careless",
+      "showing great care and perseverance",
+      "unintelligent"
+    ],
+    "correctAnswer": "showing great care and perseverance"
+  },
+  {
+    "id": 53,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "She wishes she _____ more time travelling when she was younger.",
+    "options": [
+      "spent",
+      "had spent",
+      "would spend",
+      "could spend"
+    ],
+    "correctAnswer": "had spent"
+  },
+  {
+    "id": 54,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'auspicious'?",
+    "options": [
+      "Favourable",
+      "Promising",
+      "Inauspicious/Ominous",
+      "Lucky"
+    ],
+    "correctAnswer": "Inauspicious/Ominous"
+  },
+  {
+    "id": 55,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "It's high time the government _____ action on this issue.",
+    "options": [
+      "takes",
+      "took",
+      "should take",
+      "has taken"
+    ],
+    "correctAnswer": "took"
+  },
+  {
+    "id": 56,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "To 'equivocate' means to _____",
+    "options": [
+      "speak clearly",
+      "tell the truth",
+      "use ambiguous language to conceal the truth",
+      "shout loudly"
+    ],
+    "correctAnswer": "use ambiguous language to conceal the truth"
+  },
+  {
+    "id": 57,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "_____ all the candidates, she was by far the most qualified.",
+    "options": [
+      "From",
+      "Between",
+      "Of",
+      "Among"
+    ],
+    "correctAnswer": "Of"
+  },
+  {
+    "id": 58,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "A 'salient' point is the most ____ one.",
+    "options": [
+      "minor",
+      "hidden",
+      "noticeable or important",
+      "complex"
+    ],
+    "correctAnswer": "noticeable or important"
+  },
+  {
+    "id": 59,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "He denied _____ involved in the incident.",
+    "options": [
+      "to be",
+      "being",
+      "to have been",
+      "having been"
+    ],
+    "correctAnswer": "being"
+  },
+  {
+    "id": 60,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'fortuitous'?",
+    "options": [
+      "Lucky",
+      "Accidental",
+      "Planned/Deliberate",
+      "Unfortunate"
+    ],
+    "correctAnswer": "Planned/Deliberate"
+  },
+  {
+    "id": 61,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "I can't help _____ sorry for him.",
+    "options": [
+      "feel",
+      "feeling",
+      "to feel",
+      "felt"
+    ],
+    "correctAnswer": "feeling"
+  },
+  {
+    "id": 62,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "To 'expedite' a process means to make it happen _____",
+    "options": [
+      "more slowly",
+      "more carefully",
+      "sooner or more quickly",
+      "later"
+    ],
+    "correctAnswer": "sooner or more quickly"
+  },
+  {
+    "id": 63,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "The reason _____ he resigned remains unclear.",
+    "options": [
+      "that",
+      "which",
+      "because",
+      "why"
+    ],
+    "correctAnswer": "why"
+  },
+  {
+    "id": 64,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Someone who is 'mercurial' is prone to sudden changes in _____",
+    "options": [
+      "location",
+      "opinion",
+      "mood",
+      "wealth"
+    ],
+    "correctAnswer": "mood"
+  },
+  {
+    "id": 65,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "We were _____ leave when the phone rang.",
+    "options": [
+      "near to",
+      "close to",
+      "about to",
+      "ready"
+    ],
+    "correctAnswer": "about to"
+  },
+  {
+    "id": 66,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'exonerate'?",
+    "options": [
+      "Accuse/Convict",
+      "Pardon",
+      "Forgive",
+      "Release"
+    ],
+    "correctAnswer": "Accuse/Convict"
+  },
+  {
+    "id": 67,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "It never occurred _____ me that she might be lying.",
+    "options": [
+      "for",
+      "to",
+      "on",
+      "with"
+    ],
+    "correctAnswer": "to"
+  },
+  {
+    "id": 68,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "A 'vicarious' experience is felt by _____",
+    "options": [
+      "direct participation",
+      "imagining another's experience",
+      "accident",
+      "force"
+    ],
+    "correctAnswer": "imagining another's experience"
+  },
+  {
+    "id": 69,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "Supposing you _____ the job, would you accept it?",
+    "options": [
+      "offer",
+      "offered",
+      "were offered",
+      "had offered"
+    ],
+    "correctAnswer": "were offered"
+  },
+  {
+    "id": 70,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "To 'ameliorate' a situation means to ____ it.",
+    "options": [
+      "worsen",
+      "ignore",
+      "make better",
+      "complicate"
+    ],
+    "correctAnswer": "make better"
+  },
+  {
+    "id": 71,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "On no account _____ you touch that button.",
+    "options": [
+      "should",
+      "can",
+      "will",
+      "do"
+    ],
+    "correctAnswer": "should"
+  },
+  {
+    "id": 72,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'sparse'?",
+    "options": [
+      "Scattered",
+      "Few",
+      "Dense/Abundant",
+      "Thin"
+    ],
+    "correctAnswer": "Dense/Abundant"
+  },
+  {
+    "id": 73,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "She took _____ painting after she retired.",
+    "options": [
+      "up",
+      "on",
+      "in",
+      "over"
+    ],
+    "correctAnswer": "up"
+  },
+  {
+    "id": 74,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Someone who is 'erudite' has great _____",
+    "options": [
+      "wealth",
+      "strength",
+      "knowledge or learning",
+      "popularity"
+    ],
+    "correctAnswer": "knowledge or learning"
+  },
+  {
+    "id": 75,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "Much _____ I admire her work, I don't think she's right for this project.",
+    "options": [
+      "although",
+      "because",
+      "since",
+      "as"
+    ],
+    "correctAnswer": "as"
+  },
+  {
+    "id": 76,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "A 'conundrum' is a _____",
+    "options": [
+      "simple solution",
+      "clear explanation",
+      "confusing problem or question",
+      "loud noise"
+    ],
+    "correctAnswer": "confusing problem or question"
+  },
+  {
+    "id": 77,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "Had it not been _____ your help, I would have failed.",
+    "options": [
+      "with",
+      "about",
+      "for",
+      "by"
+    ],
+    "correctAnswer": "for"
+  },
+  {
+    "id": 78,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'laud'?",
+    "options": [
+      "Praise",
+      "Criticize/Condemn",
+      "Ignore",
+      "Admire"
+    ],
+    "correctAnswer": "Criticize/Condemn"
+  },
+  {
+    "id": 79,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "I'm finding it difficult to get used _____ shifts.",
+    "options": [
+      "to work",
+      "working",
+      "to working",
+      "work"
+    ],
+    "correctAnswer": "to working"
+  },
+  {
+    "id": 80,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "To 'juxtapose' things is to place them _____",
+    "options": [
+      "far apart",
+      "in order",
+      "close together for contrast",
+      "randomly"
+    ],
+    "correctAnswer": "close together for contrast"
+  },
+  {
+    "id": 81,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "The police are investigating the robbery, _____ occurred last night.",
+    "options": [
+      "that",
+      "it",
+      "which",
+      "what"
+    ],
+    "correctAnswer": "which"
+  },
+  {
+    "id": 82,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Something described as 'insipid' is lacking _____",
+    "options": [
+      "colour",
+      "flavour or interest",
+      "value",
+      "size"
+    ],
+    "correctAnswer": "flavour or interest"
+  },
+  {
+    "id": 83,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "Such _____ the force of the explosion that windows were shattered miles away.",
+    "options": [
+      "is",
+      "was",
+      "has been",
+      "had been"
+    ],
+    "correctAnswer": "was"
+  },
+  {
+    "id": 84,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'verbose'?",
+    "options": [
+      "Talkative",
+      "Concise/Succinct",
+      "Loud",
+      "Fluent"
+    ],
+    "correctAnswer": "Concise/Succinct"
+  },
+  {
+    "id": 85,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "I'd prefer _____ by train if possible.",
+    "options": [
+      "travelling",
+      "travel",
+      "to travel",
+      "to travelling"
+    ],
+    "correctAnswer": "to travel"
+  },
+  {
+    "id": 86,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "To 'disseminate' information means to ____ it.",
+    "options": [
+      "hide",
+      "collect",
+      "spread widely",
+      "analyze"
+    ],
+    "correctAnswer": "spread widely"
+  },
+  {
+    "id": 87,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "_____ effort they put in, they couldn't meet the deadline.",
+    "options": [
+      "Despite",
+      "Although",
+      "Whatever",
+      "However much"
+    ],
+    "correctAnswer": "However much"
+  },
+  {
+    "id": 88,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "A 'nascent' industry is one that is _____",
+    "options": [
+      "declining",
+      "well-established",
+      "just beginning to develop",
+      "highly profitable"
+    ],
+    "correctAnswer": "just beginning to develop"
+  },
+  {
+    "id": 89,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "She took exception _____ his critical remarks.",
+    "options": [
+      "for",
+      "with",
+      "about",
+      "to"
+    ],
+    "correctAnswer": "to"
+  },
+  {
+    "id": 90,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'adamant'?",
+    "options": [
+      "Stubborn",
+      "Flexible/Yielding",
+      "Determined",
+      "Strong"
+    ],
+    "correctAnswer": "Flexible/Yielding"
+  },
+  {
+    "id": 91,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "The report highlights several areas _____ improvement.",
+    "options": [
+      "need",
+      "needed",
+      "in need of",
+      "needs"
+    ],
+    "correctAnswer": "in need of"
+  },
+  {
+    "id": 92,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "To 'ostracize' someone means to ____ them.",
+    "options": [
+      "praise",
+      "reward",
+      "exclude or banish",
+      "welcome"
+    ],
+    "correctAnswer": "exclude or banish"
+  },
+  {
+    "id": 93,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "_____ the weather forecast, it's going to rain tomorrow.",
+    "options": [
+      "According to",
+      "In accordance with",
+      "Regarding",
+      "Concerning"
+    ],
+    "correctAnswer": "According to"
+  },
+  {
+    "id": 94,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Someone who is 'sanguine' is _____",
+    "options": [
+      "pessimistic",
+      "optimistic and hopeful",
+      "nervous",
+      "sad"
+    ],
+    "correctAnswer": "optimistic and hopeful"
+  },
+  {
+    "id": 95,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "I look forward to _____ you at the conference next week.",
+    "options": [
+      "see",
+      "seeing",
+      "be seeing",
+      "have seen"
+    ],
+    "correctAnswer": "seeing"
+  },
+  {
+    "id": 96,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "Opposite of 'tenuous'?",
+    "options": [
+      "Weak",
+      "Strong/Substantial",
+      "Thin",
+      "Doubtful"
+    ],
+    "correctAnswer": "Strong/Substantial"
+  },
+  {
+    "id": 97,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "Only by working together _____ achieve our goals.",
+    "options": [
+      "we can",
+      "can we",
+      "we will",
+      "will we"
+    ],
+    "correctAnswer": "can we"
+  },
+  {
+    "id": 98,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "A 'paucity' of resources means a _____",
+    "options": [
+      "surplus",
+      "variety",
+      "scarcity or lack",
+      "sudden increase"
+    ],
+    "correctAnswer": "scarcity or lack"
+  },
+  {
+    "id": 99,
+    "level": "C1",
+    "topic": "Grammar",
+    "question": "Whether _____ or not remains to be seen.",
+    "options": [
+      "he comes",
+      "does he come",
+      "he will come",
+      "will he come"
+    ],
+    "correctAnswer": "he comes"
+  },
+  {
+    "id": 100,
+    "level": "C1",
+    "topic": "Vocabulary",
+    "question": "To 'vacillate' means to _____",
+    "options": [
+      "decide quickly",
+      "be firm",
+      "hesitate between different opinions",
+      "agree strongly"
+    ],
+    "correctAnswer": "hesitate between different opinions"
+  }
+]
