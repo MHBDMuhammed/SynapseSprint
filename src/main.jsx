@@ -4,12 +4,15 @@ import './index.css'
 import App from './App.jsx'
 import { ThemeProvider } from './contexts/ThemeContext.jsx'
 import { SpeedInsights } from '@vercel/speed-insights/react'
+import { HelmetProvider } from 'react-helmet-async'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <ThemeProvider>
-      <App />
-      <SpeedInsights />
-    </ThemeProvider>
+    <HelmetProvider>
+      <ThemeProvider>
+        <App />
+        <SpeedInsights />
+      </ThemeProvider>
+    </HelmetProvider>
   </StrictMode>,
 )
