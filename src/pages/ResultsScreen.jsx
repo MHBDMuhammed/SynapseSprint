@@ -80,7 +80,7 @@ const ResultsScreen = ({ quizResults, onRestart }) => {
             {/* Score circle visualization */}
             <div className="flex flex-col md:flex-row items-center justify-center gap-8 md:gap-12 mb-8">
               <div className={`relative w-40 h-40 transition-all duration-1000 ${visible ? 'scale-100 opacity-100' : 'scale-90 opacity-0'}`}>
-                <svg className="w-full h-full transform -rotate-90" viewBox="0 0 152 152">
+                <svg className="w-full h-full transform" viewBox="0 0 152 152">
                   <circle
                     cx="76"
                     cy="76"
